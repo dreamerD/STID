@@ -1,0 +1,5 @@
+datasets/PEMS04/his/data.pkl filter=lfs diff=lfs merge=lfs -text
+datasets/PEMS04/data.pkl filter=lfs diff=lfs merge=lfs -text
+datasets/raw_data/PEMS-BAY/PEMS-BAY.h5 filter=lfs diff=lfs merge=lfs -text
+datasets/PEMS-BAY/data.pkl filter=lfs diff=lfs merge=lfs -text
+datasets/PEMS07/data.pkl filter=lfs diff=lfs merge=lfs -text

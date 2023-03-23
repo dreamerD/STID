@@ -1,0 +1,1 @@
+from basicts.archs.gwnet_arch.gwnet_arch import STID as GraphWaveNet

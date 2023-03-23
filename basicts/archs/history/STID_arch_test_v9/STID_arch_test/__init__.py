@@ -1,0 +1,1 @@
+from basicts.archs.STID_arch_test.STID_arch import STID_test
